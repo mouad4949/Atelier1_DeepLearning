@@ -5,7 +5,7 @@ The main goal of this lab is to gain hands-on experience with the PyTorch librar
 
 ---
 
-## Work to Do
+## Woork to Do
 
 ### Part 1: Regression
 **Dataset:** [NYSE Stock Market Data](https://www.kaggle.com/datasets/dgawlik/nyse)
